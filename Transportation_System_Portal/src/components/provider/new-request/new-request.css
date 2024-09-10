@@ -1,0 +1,19 @@
+#new-request-component {
+    margin-top: 60px;
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    background-color: rgb(133, 133, 133);
+    height: 90vh;
+}
+
+#new-request-component input,
+#new-request-component select {
+    border-bottom: 2px solid rgb(32, 89, 132);
+    border-radius: 10px;
+}
+
+#new-request-component .card {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 5px rgb(87, 87, 87);
+}

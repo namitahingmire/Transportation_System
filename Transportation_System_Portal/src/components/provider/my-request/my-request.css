@@ -1,0 +1,19 @@
+#my-request {
+    margin-top: 60px;
+    background-color: rgb(133, 133, 133);
+    padding-top: 5%;
+    padding-left: 10%;
+    padding-right: 10%;
+    height: 90vh;
+}
+
+#my-request .card {
+    padding: 10px;
+    box-shadow: 1px 1px 10px 5px rgb(87, 87, 87);
+}
+
+.btn-success a{
+    color: white !important;
+    text-decoration: none;
+    font-weight: 700;
+}

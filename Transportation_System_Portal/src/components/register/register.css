@@ -1,0 +1,8 @@
+#register-component input {
+    border-bottom: 2px solid orange;
+    border-radius: 40px;
+}
+
+#register-component .card {
+    box-shadow: 1px 1px 10px 5px rgb(77, 77, 77);
+}

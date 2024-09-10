@@ -1,0 +1,21 @@
+#home-component {
+    margin-top: 60px;
+}
+
+#home-component img {
+    width: 80vw;
+    height: 80vh;
+    border-radius: 10px;
+    opacity: 0.9;
+}
+
+#home-component #marketing {
+    padding: 0% 15% !important;
+    margin-top: -30px;
+}
+
+#home-component #marketing .card{
+    min-height: 90px;
+    background-color: gray;
+    color: white;
+}
